@@ -10,7 +10,7 @@
     - [Windows]()
     - [Android]()
         - [前置知识](./play_guide/Android/front/index.md)
-        - [解压](./play_guide/Android/index.md)
+        - [解压](./play_guide/Android/extract/index.md)
         - [KRKR]()
         - [Tyranor]()
         - [ONS]()
