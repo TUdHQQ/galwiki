@@ -1,6 +1,12 @@
 [book]
+
 authors = ["TUdHQQ"]
 language = "zh-CN"
 multilingual = false
 src = "src"
 title = "galwiki"
+
+[output.html]
+
+git-repository-url = "https://github.com/TUdHQQ/galwiki"
+mathjax-support = true
