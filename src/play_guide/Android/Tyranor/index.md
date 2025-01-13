@@ -1,7 +1,9 @@
 # Tyranor
 
 注意区分版本号
+
 2.0之前: 只能运行`artemis`引擎的游戏
+
 2.0后: 内置了Kirikiroid2,可以运行KRKR引擎的游戏
 
 ## 使用方法
