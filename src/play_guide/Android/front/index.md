@@ -8,9 +8,7 @@
 
 # 安装包
 
-手机的软件是由一个个文件和文件夹组成的
-
-手机的安装软件一般都是`apk`格式,极少数为`apks`或者`apkm`（这两种格式可以使用 [SAI](https://github.com/Aefyr/SAI/releases) 进行安装）
+手机的安装包一般都是`apk`格式,极少数为`apks`或者`apkm`（这两种格式可以使用 [SAI](https://github.com/Aefyr/SAI/releases) 进行安装）
 
 关于QQ下载`apk`文件变成了`apk.1`: 
 
