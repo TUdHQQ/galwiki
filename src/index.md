@@ -2,6 +2,10 @@
 
 galwiki是由galgamer们共同维护的，有关galgame的wiki
 
+# galgame的定义
+
+TODO...
+
 # 贡献
 
 你可以参考[mdBook的中文文档](https://hellowac.github.io/mdbook-doc-zh/zh-cn/index.html)向这个项目[提交pr](https://github.com/TUdHQQ/galwiki/pulls)
