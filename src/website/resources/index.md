@@ -2,12 +2,13 @@
 
 ## 游戏本体
 
-### 直链，无需离开网站
+### 直链
 - [失落小站](https://www.shinnku.com/)
 - [稻荷](https://www.amoebi.com/)
 - [touchgal](https://www.touchgal.io/)
 - [小鳥遊暁の会员制餐厅](https://t-satoru.top/)
 - [忧郁的弟弟](https://www.ttloli.com/)
+- [量子ACG](https://lzacg.org/)
 
 ### Alist站
 
@@ -18,6 +19,8 @@
 
 - [青桔网](https://spare.qingju.org/)
 - [Galgame月谣](https://www.sayafx.top/)
+- [ACG愿望](https://acgyw.xyz/category/game/)
+- [萤ノ光](https://yinghu.netlify.app/)
 
 ### 磁力站
 

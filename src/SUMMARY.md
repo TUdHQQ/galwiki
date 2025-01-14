@@ -2,7 +2,9 @@
 
 [说明](./index.md)
 
+
 ---
+
 
 # 新手教程
 
@@ -35,28 +37,39 @@
     - [Others]()
         - [度盘加速](./play_guide/Others/baidu/index.md)
 
+
 ---
+
 
 - [网站]()
     - [资源站](./website/resources/index.md)
-    - [wiki类]()
-    - [论坛]()
-    - [工具类]()
+    - [论坛](./website/forum/index.md)
+    - [Others](./website/others/index.md)
+
 
 ---
+
 
 # 解包
 
+
 ---
+
 
 # 逆向
 
+
 ---
+
 
 # 汉化
 
+
 ---
+
 
 # 其他
 
+
 ---
+
