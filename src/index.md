@@ -22,5 +22,10 @@ This project is licensed under the GPLv3, with some components licensed under th
 
 - [MGGA Project](https://github.com/TUdHQQ)
 - [listder](https://blog.listder.xyz)
+- [Lelouch](https://github.com/2180500933)
 
 如果您觉得自己对本项目有所贡献但却不在此列表中，请提交pr。
+
+# Thanks
+
+- [galWiki](https://github.com/yvuvub/galwiki)
