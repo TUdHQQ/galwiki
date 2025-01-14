@@ -25,6 +25,7 @@
         - [Steam Proton]()
     - [Macos]()
     - [IOS]()
+        - [前置知识](./play_guide/Ios/front/index.md)
         - [解压](./play_guide/Ios/extract/index.md)
         - [KRKR](./play_guide/Ios/KRKR/index.md)
         - [ONS](./play_guide/Ios/ONS/index.md)
