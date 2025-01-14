@@ -24,7 +24,7 @@
         - [Waydroid]()
         - [Steam Proton]()
     - [Macos]()
-    - [IOS]()
+    - [IOS](./play_guide/IOS/index.md)
         - [前置知识](./play_guide/IOS/front/index.md)
         - [解压](./play_guide/IOS/extract/index.md)
         - [KRKR](./play_guide/IOS/KRKR/index.md)
@@ -33,7 +33,6 @@
         - [PPSSPP](./play_guide/IOS/PPSSPP/index.md)
         - [UTM](./play_guide/IOS/UTM/index.md)
     - [Others]()
-    - [常见报错]()
 
 ---
 

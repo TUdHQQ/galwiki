@@ -38,3 +38,11 @@
 
 - [Video Game Music Downloads](https://downloads.khinsider.com/?u=2929887)
 - [鸟白岛演绎厅](https://www.summerpockets.com/)
+
+
+## 正版游戏购买渠道
+
+- [DLsite](https://www.dlsite.com/)
+- [DMM](https://dmm.com/)
+- [Steam](https://store.steampowered.com/)
+- [jastusa](https://jastusa.com/)
