@@ -33,6 +33,7 @@
         - [PPSSPP](./play_guide/IOS/PPSSPP/index.md)
         - [UTM](./play_guide/IOS/UTM/index.md)
     - [Others]()
+        - [度盘加速](./play_guide/Others/baidu/index.md)
 
 ---
 
