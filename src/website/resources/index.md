@@ -32,7 +32,7 @@
 ## 补丁
 
 - [鲲Galgame补丁](https://www.moyu.moe/)
-- [2dfan2dfan](https://2dfan.com/)
+- [2dfan](https://2dfan.com/)
 
 ## OST
 
