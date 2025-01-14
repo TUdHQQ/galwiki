@@ -1,6 +1,6 @@
 # UTM
 
-一个可以运行windows,linux等操作系统的模拟器,可用来模拟win7或win10系统精简版来直接运行exe文件的galgame,推荐m1及以上等效芯片
+一个可以运行windows,linux等操作系统的模拟器,可用来模拟win7或win10系统精简版来直接运行Windows端的galgame,推荐m1及以上等效芯片
 
 ## 使用方法
 
@@ -8,7 +8,7 @@
 
 ## 下载链接
 
-[UTM](https://apps.apple.com/app/id1564628856)
+- [UTM](https://apps.apple.com/app/id1564628856)
 
 ## 常见问题
 

@@ -1,6 +1,6 @@
 # Kirikiroid2
 
-ios上该模拟器名字为XP3Player,开发者已停更很久,有许多bug, 该模拟器能运行绝大多数主流 galgame
+ios上该模拟器名字为XP3Player,开发者已停更很久,有许多bug,该模拟器能运行绝大多数主流 galgame
 
 ## 使用方法
 
@@ -12,7 +12,7 @@ ios上该模拟器名字为XP3Player,开发者已停更很久,有许多bug, 该�
 
 ## 下载链接
 
-[XP3Player](https://apps.apple.com/app/id1064060287)
+- [XP3Player](https://apps.apple.com/app/id1064060287)
 
 ## 常见问题
 

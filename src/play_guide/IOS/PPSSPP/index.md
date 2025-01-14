@@ -8,7 +8,7 @@
 
 ## 下载链接
 
-[PPSSPP](https://apps.apple.com/app/id6496972903)
+- [PPSSPP](https://apps.apple.com/app/id6496972903)
 
 ## 常见问题
 

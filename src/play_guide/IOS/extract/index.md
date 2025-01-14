@@ -4,7 +4,8 @@
 
 ## 下载链接
 
-[解压助手](https://apps.apple.com/app/id1552555240),[解压专家](https://apps.apple.com/app/id1552555240)
+- [解压助手](https://apps.apple.com/app/id1552555240)
+- [解压专家](https://apps.apple.com/app/id1552555240)
 
 ## 注意 
 

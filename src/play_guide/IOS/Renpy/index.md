@@ -8,7 +8,9 @@
 
 ## 下载链接
 
-[RenpyReader](https://apps.apple.com/cn/app/renpyreader/id6479896772),如果你只想玩ren'py类游戏,也可以下载Spark,RenPyLinter
+- [RenpyReader](https://apps.apple.com/cn/app/renpyreader/id6479896772)
+
+如果你只想玩ren'py类游戏,也可以下载Spark,RenPyLinter
 
 ## 常见问题
 
