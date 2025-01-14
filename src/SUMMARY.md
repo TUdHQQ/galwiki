@@ -15,7 +15,7 @@
         - [Tyranor](./play_guide/Android/Tyranor/index.md)
         - [ONS](./play_guide/Android/ONS/index.md)
         - [MINE](./play_guide/Android/MINE/index.md)
-        - [PPSSPP]()
+        - [PPSSPP](./play_guide/Android/PPSSPP/index.md)
         - [mobox]()
         - [Winlator]()
         - [Exager]()
@@ -35,8 +35,9 @@
 ---
 
 - [网站]()
-    - [资源站]()
+    - [资源站](./website/resources/index.md)
     - [wiki类]()
+    - [论坛]()
     - [工具类]()
 
 ---
