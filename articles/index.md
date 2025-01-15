@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Galgame Wiki"
-  text: "收录有关Galgame的一切!!!"
+  text: "收录有关gal的一切"
   tagline: A useful wiki for galgamer
   image:
     src: /ETC_KABEGAMI04C.webp
