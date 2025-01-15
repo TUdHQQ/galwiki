@@ -1,0 +1,28 @@
+{
+  "name": "galwiki",
+  "description": "A useful wiki for galgamer",
+  "packageManager": "pnpm@9.0.4",
+  "package-manager-strict": false,
+  "author": {
+    "name": "listder",
+    "email": "listder@listder.xyz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TUdHQQ/galwiki.git"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0",
+    "vitepress": "1.0.0-rc.40",
+    "vue": "^3.4.15"
+  },
+  "scripts": {
+    "dev": "vitepress dev --host 127.0.0.1 --port 7777",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@giscus/vue": "^2.4.0",
+    "vitepress-sidebar": "^1.30.2"
+  }
+}

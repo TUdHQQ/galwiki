@@ -1,1 +1,6 @@
-book
+node_modules
+
+.vitepress/cache
+dist
+
+.env
